@@ -1,5 +1,8 @@
-package jan2024.ProgramTagttt;
+package january.targettt50;
 
 public class hello {
+	public static void main(String []args) {
+		System.out.println("vishal rai");
+	}
 
 }
