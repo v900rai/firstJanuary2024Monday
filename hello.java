@@ -1,8 +1,8 @@
-package january.targettt50;
+package oopsconcepts2024.allclassAndObject.pillers;
 
 public class hello {
 	public static void main(String []args) {
-		System.out.println("vishal rai");
+		System.out.println("hello vishal rai");
 	}
 
 }
